@@ -26,6 +26,7 @@ public class A3b {
                 break;
             case 7:
                 System.out.println("Sunday");
+                break;
             default:
                 System.out.println("Week has only 7 days!");
         }
